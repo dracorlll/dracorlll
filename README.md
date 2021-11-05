@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, I'm Engin</h1>
 <h3 align="center">Computer Engineer, Software Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dracorlll&label=Profile%20views&color=0e75b6&style=flat" alt="enginyüksel" /> </p>
+
 - 🔭 I’m currently working at Home
 - 💬 My interests JavaScript, C#, Embedded Programming, Raspberry
 - 📫 How to reach me: <info@enginyuksel.kim>
